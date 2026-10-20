@@ -19,7 +19,6 @@ This project was carried out as part of the **Vision System / Image Processing p
 This project was developed by:
 
 - Amina El Haddad
-- Tasnim Chaoui
 
 ---
 
